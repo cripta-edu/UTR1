@@ -1,6 +1,7 @@
 ## Action
 
 [done] Github Public Repo and First commit
+[doing] SKILLS to link to latest version of TTPR
 
 ## To Do
 
