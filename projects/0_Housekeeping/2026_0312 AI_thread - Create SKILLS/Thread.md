@@ -4,7 +4,7 @@ start_date: 2026-03-12 (Thu)
 model: Gemini 3.1 Pro
 initial_focus: Create SKILLS.xml
 secondary_focus: TTPR_Readme.md
-proload: TTPR version 0
+preload: TTPR version 0
 
 ---
 

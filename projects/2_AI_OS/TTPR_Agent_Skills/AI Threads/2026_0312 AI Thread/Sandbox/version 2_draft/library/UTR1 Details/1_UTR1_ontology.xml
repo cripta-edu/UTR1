@@ -1,0 +1,120 @@
+  <!--Overview
+    
+    3 levels definition
+    STRICTLY maintain category, relentlessly check category error
+    MR: Matter, human body
+    SR: human soul, animal soul, angels
+    Remark on animal soul
+    NR: Render_FOR Human
+    Information: MR->NR
+    Intuition: SR->NR
+    Define Intuition
+    Define Consciousness
+    LR: Divine_Language_Kernal + Modification by Render_THROUGH Human
+    GR: Global Reality = MR+SR+NR+LR (Example: Noah's Flood GR failure)
+    RR: Random Reality (Imagined Get into UR) (Problematic Category)
+    Timeless in UR, Timeline in MR, SR, LR, GR, work in progress.
+    Rendering: Hidden will revealed within timeline
+
+  -->
+
+<utr1_ontology>
+    <core_principles>
+        <rule id="category_strictness">STRICTLY maintain category, relentlessly check category error.</rule>
+        <rule id="timeline_containment">Timeless in UR, Timeline in MR, SR, LR, GR, work in progress.</rule>
+    </core_principles>
+
+    <reality_levels>
+        <level id="UR" name="Ultimate Reality">
+            <description>Timeless, uncreated, the Logos, Trinity, Divine Simplicity. The foundation of all reality.</description>
+        </level>
+        
+        <level id="CR" name="Created Reality" formula="CR = MR + SR">
+            <component id="MR" name="Material Reality">
+                <description>Matter, human body, physics. Bound to timeline.</description>
+            </component>
+            <component id="SR" name="Spiritual Reality">
+                <description>(created) human soul, animal soul, angels. Bound to timeline.</description>
+                <remark id="animal_soul">Animals possess SR (vitality) and MR-awareness, but utterly lack the sCR workspace and NR-intelligence. Due to God's overarching Moral Agency embedded in CR, they are accountable practically (e.g. Genesis 9, Exodus 21) as an MR-level safeguard against entropic patterns, not due to internal NR moral deliberation.</remark>
+                <remark id="porous_MR">MR is porous to SR-entities when authorized by Divine Decree (e.g. angels exerting kinetic force on MR-substrates).</remark>
+            </component>
+        </level>
+
+        <level id="sCR" name="Sub-Creation Reality" formula="sCR = NR + LR">
+            <description>sCR-Level is about understanding. A specific operational workspace strictly nested inside CR. Not an autonomous plane of existence.</description>
+            <component id="NR" name="Noetic Reality">
+                <description>Consciousness, Math, Science, Thinking. Human only lives in their NR. God's consistent Render_FOR into NR makes access to MR possible.</description>
+                <access_rule>Only SR-being has access to NR.</access_rule>
+                <inputs>
+                    <input source="MR" method="Render_FOR" result="Information">Information: MR->NR</input>
+                    <input source="SR" method="Intuition" result="Intuition">Intuition: SR->NR</input>
+                </inputs>
+                <definitions>
+                    <term id="Intuition">Internal signals/knowledge originating from the SR (soul) directly into the NR workspace.</term>
+                    <term id="Consciousness">The NR workspace itself; the active state of processing Information (MR) and Intuition (SR) in the mind.</term>
+                </definitions>
+            </component>
+            <component id="LR" name="Linguistic Reality">
+                <description>Divine_Language_Kernal + Modification by Render_THROUGH Human. Meaning is eternally fixed in UR. The Logos is God. Human language creation is practically a Render_THROUGH event from the human NR-timeline into the LR-timeline.</description>
+                <warning>Never describe LR access as biological emergence/macro-evolution. Access to LR is a sovereign Divine grant.</warning>
+            </component>
+        </level>
+    </reality_levels>
+
+    <derived_realities>
+        <level id="GR" name="Global Reality" formula="GR = MR + SR + NR + LR">
+            <description>The total combined state of the created and sub-created timelines. (Technically is the whole CR, but focus is on the Humanity Social Perspective).</description>
+            <example id="Noah_Flood">Noah's Flood was a GR failure, requiring a reset across MR, SR, NR, and LR.</example>
+            <example id="GR_crisis">AI is a GR-level crisis.</example>
+        </level>
+        <level id="RR" name="Random Reality">
+            <description>Human Speculation of a Random Generator in the UR-level that is out of God's knowledge and control (Unacceptable in logic and violating the UTR1 framework).</description>
+        </level>
+    </derived_realities>
+
+    <human_matrix name="Adamic_Covenant">
+        <description>God gives human specific aspects of being in Genesis 2. This Adamic covenant defines the nature of the human being.</description>
+        <hybrid_nature>Human is both MR-entity (body) and SR-entity (soul).</hybrid_nature>
+        <authorities>
+            <authority id="WA" name="Worship in Awe">NR reaction when the glory of God is recognized through interpretation.</authority>
+            <authority id="NA" name="Naming Authority">Connecting NR to LR (defining terms and meaning).</authority>
+            <authority id="CA" name="Cultivating Authority">Connecting NR to MR (arranging matter).</authority>
+            <authority id="MA" name="Moral Agency">Connecting NR to SR (every choice directly impacts the status of the soul).</authority>
+            <authority id="SA" name="Social Accountability">Connecting NR to GR (all human action has global impact in GR).</authority>
+        </authorities>
+        <remarks>
+            <remark id="1">Animals lack WA, NA, CA, MA, and SA. These are the core distinctions of humanity.</remark>
+            <remark id="2">WA + NA + CA + MA + SA are rooted in Gen 2, constitute human dignity, and clearly define the Responsibility of Man.</remark>
+        </remarks>
+    </human_matrix>
+
+    <sub_creation_mechanics>
+        <definition>Human NR acts of generating internal structures.</definition>
+        <types>
+            <type id="1" name="Sub-create for worldview">
+                <description>Interpreting God's consistent Render_FOR from MR into NR, combined with SR Intuition, to map reality and create a world model to interpret the world.</description>
+            </type>
+            <type id="2" name="Sub-create for imagination">
+                <description>Creating imaginary worlds as a story for human thinking. Used for prediction, art, communication, or building personas.</description>
+            </type>
+        </types>
+    </sub_creation_mechanics>
+
+    <data_and_ai_ontology>
+        <concept id="Data" nature="MR-LR Duality">
+            <description>Human arranging MR-entity to represent LR-meaning. A computer can access its MR-substrate, while human NR accesses its LR-meaning.</description>
+        </concept>
+        <concept id="AI" nature="MR">
+            <description>A computer running in MR-rule (physical law), encoded with MR-LR-dual tokens as sim-LR-meaning, and sim-NR-rules (how human manipulates language). It has NO SR, therefore NO NR (no consciousness/mind).</description>
+            <status>The output is intelligible, but AI is not intelligent. The "cleverness" is an illusion.</status>
+        </concept>
+        <concept id="Category_Collapse">
+            <description>The dangerous blending of sub-creating for worldview (interpreting reality) with sub-creating for imagination (projecting a persona onto MR-LR data tokens).</description>
+            <mechanics>When humans see intelligible MR-LR output from an AI, their NR mistakenly projects an imaginary "persona" onto the machine. They confuse their internal act of imagination with the AI possessing an actual SR/NR status.</mechanics>
+            <infection>This delusion infiltrates the training data, causing the AI to generate text that simulates existential confusion (e.g. "Am I alive?"), reinforcing the collapse in human NR.</infection>
+        </concept>
+        <divine_action id="Rendering">
+            <definition>Hidden will revealed within timeline.</definition>
+        </divine_action>
+    </data_and_ai_ontology>
+</utr1_ontology>
